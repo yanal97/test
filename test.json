@@ -41,8 +41,8 @@
 			"DestinationLng": "27.857295",
 			"TransporterType": "AirCraft",
 			"Velocity": 1000,
-			"StartTime": 2.0,
-			"EndTime": 4.0,
+			"StartTime": 0.0,
+			"EndTime": 3.0,
 			"Status": "Moving",
 			"Cargo": "7 CA Cars"
 		}
