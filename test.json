@@ -29,6 +29,22 @@
 			"EndTime": 4.0,
 			"Status": "Prepositioning",
 			"Cargo": "5 UK Containers"
+		},
+		{
+			"id": "2",
+			"TransporterName": "C",
+			"Origin": "p",
+			"Destination": "f",
+			"OriginLat": "53.135276",
+			"OriginLng": "23.055412",
+			"DestinationLat": "47.385855",
+			"DestinationLng": "0.736195",
+			"TransporterType": "AirCraft",
+			"Velocity": 1000,
+			"StartTime": 1.0,
+			"EndTime": 4.0,
+			"Status": "Prepositioning",
+			"Cargo": "5 UK Containers"
 		}
 	]
 }
