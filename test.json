@@ -25571,8 +25571,8 @@
 		],
 		"TransporterType": "Tranist",
 		"Velocity": 1000,
-		"StartTime": 0.0,
-		"EndTime": 5.0,
+		"StartTime": 4.0,
+		"EndTime": 8.0,
 		"Status": "Moving",
 		"Cargo": "20 DE Containers & 100 Presonnel"
 	}, {
