@@ -29,6 +29,22 @@
 			"EndTime": 4.0,
 			"Status": "Prepositioning",
 			"Cargo": "5 UK Containers"
+		},
+		 {
+			"id": "2",
+			"TransporterName": "C17-3",
+			"Origin": "Poland",
+			"Destination": "France",
+			"OriginLat": "53.135275",
+			"OriginLng": "23.055411",
+			"DestinationLat": "47.385854",
+			"DestinationLng": "0.736194",
+			"TransporterType": "AirCraft",
+			"Velocity": 1000,
+			"StartTime": 0.0,
+			"EndTime": 4.0,
+			"Status": "Prepositioning",
+			"Cargo": "5 UK Containers"
 		}
 	]
 }
