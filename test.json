@@ -25,7 +25,7 @@
 			"DestinationLng": "0.736194",
 			"TransporterType": "AirCraft",
 			"Velocity": 1000,
-			"StartTime": 2.0,
+			"StartTime": 0.5,
 			"EndTime": 4.0,
 			"Status": "Prepositioning",
 			"Cargo": "5 UK Containers"
