@@ -25590,15 +25590,31 @@
 		"EndTime": 2.0,
 		"Status": "Moving",
 		"Cargo": "10 Lorry Trucks"
-	}, {
+	},{
+		"id": "0",
+		"TransporterName": "C17-1",
+		"Origin": "Poland",
+		"Destination": "Romania",
+		"OriginLat": "46.232433",
+		"OriginLng": "23.898043",
+		"DestinationLat": "53.135275",
+		"DestinationLng": "23.055411",
+		"TransporterType": "AirCraft",
+		"Velocity": 1000,
+		"StartTime": 0.0,
+		"EndTime": 2.0,
+		"Status": "Moving",
+		"Cargo": "10 Lorry Trucks"
+	}
+		 {
 		"id": "1",
 		"TransporterName": "C17-2",
 		"Origin": "Poland",
 		"Destination": "France",
-		"OriginLat": "38.613709",
-		"OriginLng": "-0.020284",
-		"DestinationLat": "36.954641",
-		"DestinationLng": "8.604861",
+		"OriginLat": "53.135275",
+		"OriginLng": "23.055411",
+		"DestinationLat": "47.385854",
+		"DestinationLng": "0.736194",
 		"TransporterType": "AirCraft",
 		"Velocity": 1000,
 		"StartTime": 0.5,
