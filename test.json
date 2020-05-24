@@ -25605,5 +25605,21 @@
 		"EndTime": 4.0,
 		"Status": "Prepositioning",
 		"Cargo": "5 UK Containers"
-	}]
+	},{
+		"id": "1",
+		"TransporterName": "Vessel",
+		"Origin": "Poland",
+		"Destination": "France",
+		"OriginLat": "38.613709",
+		"OriginLng": "-0.020284",
+		"DestinationLat": "36.954641",
+		"DestinationLng": "8.604861",
+		"TransporterType": "AirCraft",
+		"Velocity": 1000,
+		"StartTime": 0.0,
+		"EndTime": 4.0,
+		"Status": "Prepositioning",
+		"Cargo": "5 UK Containers"
+	}
+		]
 }
