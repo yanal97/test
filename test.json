@@ -25595,31 +25595,15 @@
 		"TransporterName": "C17-2",
 		"Origin": "Poland",
 		"Destination": "France",
-		"OriginLat": "53.135275",
-		"OriginLng": "23.055411",
-		"DestinationLat": "47.385854",
-		"DestinationLng": "0.736194",
-		"TransporterType": "AirCraft",
-		"Velocity": 1000,
-		"StartTime": 0.5,
-		"EndTime": 4.0,
-		"Status": "Prepositioning",
-		"Cargo": "5 UK Containers"
-	},{
-		"id": "1",
-		"TransporterName": "Vessel",
-		"Origin": "Poland",
-		"Destination": "France",
 		"OriginLat": "38.613709",
 		"OriginLng": "-0.020284",
 		"DestinationLat": "36.954641",
 		"DestinationLng": "8.604861",
 		"TransporterType": "AirCraft",
 		"Velocity": 1000,
-		"StartTime": 0.0,
+		"StartTime": 0.5,
 		"EndTime": 4.0,
 		"Status": "Prepositioning",
 		"Cargo": "5 UK Containers"
-	}
-		]
+	}]
 }
